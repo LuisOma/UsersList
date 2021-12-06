@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- List strings -->
+    <string name="list_title">Select any user to see more info</string>
+    <!-- Item strings -->
+    <string name="item_username">Username:</string>
+    <string name="item_name">Name:</string>
+    <string name="item_phone">Phone:</string>
+    <!-- Profile strings -->
+    <string name="profile_gender">Gender</string>
+    <string name="profile_country">Country</string>
+    <string name="profile_location">See location</string>
+</resources>
