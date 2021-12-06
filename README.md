@@ -5,7 +5,7 @@ Proyecto de demostración con Random User, basado en una arquitectura CLEAN con 
 ## Funciones de la aplicación
 
 - Los usuarios pueden ver la lista de 20 usuario.
-- Los usuarios pueden hacer clic en cualquier usuario para ver detalles de su elección.
+- Los usuarios pueden hacer clic en cualquier item para ver detalles de su elección.
 
 ## Arquitectura de la aplicación
 Basado en la arquitectura Clean y el patrón de repositorio.
