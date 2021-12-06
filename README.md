@@ -23,7 +23,7 @@ Basado en la arquitectura Clean y el patrón de repositorio.
 
 ## Especificaciones de la aplicación
 - SDK mínimo: 21
-- DSK target: 30
+- SDK target: 30
 - Kotlin en la rama maestra
 - Arquitectura MVVM
 - Componentes de la arquitectura de Android (LiveData, ViewModel, componente de navegación, ConstraintLayout)
